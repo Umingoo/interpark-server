@@ -1,6 +1,6 @@
 /**
  * @swagger
- * /shoppingdata:
+ * /visual:
  *   get:
  *     summary: 상품목록
  *     tags: [Interpark]
